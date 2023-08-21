@@ -1,5 +1,5 @@
 #Exercise 10
-# Escaping quotes ("" and '') with backlash '\'
+# Escaping quotes ("" and '') with backlashes '\'
 
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm splint\non line."
